@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011063796547",
+    "project_id": "plot-app-734f3",
+    "storage_bucket": "plot-app-734f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011063796547:android:0c0f57e01882ffa0d075f6",
+        "android_client_info": {
+          "package_name": "com.example.plot_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtST0wZ8MIy7x1-daPGdfhCth00EkRP2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
